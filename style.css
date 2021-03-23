@@ -1,0 +1,43 @@
+body {
+  background-color: teal;
+}
+
+div {
+  background-color: orange;
+
+}
+
+h1 {
+  background-color: blue;
+}
+
+section {
+  margin-top: 100px;
+  padding: 10px;
+  padding-left: 50px;
+  padding-top: 100px;
+  display: flex;
+  background-color: green;
+  width: 50vw;
+  border: 2px dotted red;
+  color: red;
+  font-weight: bold;
+}
+
+#left-container {
+  padding: 15px;
+}
+
+.left {
+  background-color:green;
+  width: 40%;
+}
+
+.left {
+  background-color:blue;
+  width: 40%;
+}
+
+.right {
+  width: 60%;
+}
