@@ -16,9 +16,9 @@ section {
   padding: 10px;
   padding-left: 50px;
   padding-top: 100px;
-  display: flex;
+  display: inline-block;
   background-color: green;
-  width: 50vw;
+  width: 40vw;
   border: 2px dotted red;
   color: red;
   font-weight: bold;
